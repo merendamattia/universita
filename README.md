@@ -7,3 +7,5 @@
 - 💻 [Basi di Dati](https://bit.ly/3Czzoy3)
 
 *Facoltà di Informatica presso l'Università degli Studi di Parma (unipr).*
+
+<a target = "_blank" href="https://www.merendamattia.com/" ><img style ="width:45%" src="copertina_appunti_goodnotes.png"></a>
