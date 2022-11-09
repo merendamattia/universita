@@ -5,6 +5,8 @@
 - 💽 [Algoritmi e Strutture Dati](https://bit.ly/3uGnQXh)
 - 📐 [Algebra e Geometria](https://bit.ly/3vfWyG0)
 - 💻 [Basi di Dati](https://bit.ly/3Czzoy3)
+- 🖥️ [Sistemi Operativi](http://bit.ly/3tg6yPa)
+
 
 *Facoltà di Informatica presso l'Università degli Studi di Parma (unipr).*
 
