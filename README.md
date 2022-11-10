@@ -10,4 +10,4 @@
 
 *Facoltà di Informatica presso l'Università degli Studi di Parma (unipr).*
 
-<a target = "_blank" href="https://www.merendamattia.com/" ><img style ="width:45%" src="copertina_appunti_goodnotes.png"></a>
+> Tutti gli appunti sono presenti qui: [_merendamattia.com/uni_](https://www.merendamattia.com/uni.html)  
