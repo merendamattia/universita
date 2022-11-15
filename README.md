@@ -8,6 +8,6 @@
 - 🖥️ [Sistemi Operativi](http://bit.ly/3tg6yPa)
 
 
-*Facoltà di Informatica presso l'Università degli Studi di Parma (unipr).*
+*Facoltà di Informatica presso l'Università degli Studi di Parma (UniPR).*
 
 > Tutti gli appunti sono presenti qui: [_merendamattia.com/uni_](https://www.merendamattia.com/uni.html)  
