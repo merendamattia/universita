@@ -6,6 +6,10 @@
 - 📐 [Algebra e Geometria](https://bit.ly/3vfWyG0)
 - 💻 [Basi di Dati](https://bit.ly/3Czzoy3)
 - 🖥️ [Sistemi Operativi](http://bit.ly/3tg6yPa)
+- 💽 [Laboratorio di Algoritmi e Strutture Dati](https://bit.ly/3uGnQXh)
+- ⌨️ [Metodologie di Programmazione](http://bit.ly/3IJ8ZlP)
+- 📱 [Programmazione Mobile](http://bit.ly/3kiUJqA)
+- 🧮 [Calcolo Numerico](http://bit.ly/3Il17FF)
 
 
 *Facoltà di Informatica presso l'Università degli Studi di Parma (UniPR).*
