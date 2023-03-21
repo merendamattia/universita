@@ -25,6 +25,9 @@ Ecco un semplice elenco di linee guida da seguire per partecipare alla stesura d
 	- [table-editor-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian)
 	- [highlightr-plugin](https://github.com/chetachiezikeuzor/Highlightr-Plugin)
 	- [obsidian-dynamic-toc](https://github.com/aidurber/obsidian-plugin-dynamic-toc)
+	- [todo-checklist](https://github.com/delashum/obsidian-checklist-plugin)
+	- [admonition](https://github.com/valentine195/obsidian-admonition)
+	- [url-into-selection](https://github.com/denolehov/obsidian-url-into-selection)
 3. Effettuare un `git fork` della repository in questione, nella quale poi si andranno a modificare / aggiungere appunti
 4. Effettuare sempre un `git fetch` e successivamente un `git pull` prima di qualsiasi `git push` e/o `git commit`
 5. Non utilizzare caratteri in stampato e caratteri speciali nel nome dei file
