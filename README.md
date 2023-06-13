@@ -29,7 +29,7 @@ Ecco un semplice elenco di linee guida da seguire per partecipare alla stesura d
 	- [admonition](https://github.com/valentine195/obsidian-admonition)
 	- [url-into-selection](https://github.com/denolehov/obsidian-url-into-selection)
 3. Effettuare un `git fork` della repository in questione, nella quale poi si andranno a modificare / aggiungere appunti
-4. Effettuare sempre un `git fetch` e successivamente un `git pull` prima di qualsiasi `git push` e/o `git commit`
+4. Effettuare sempre un `git fetch` e successivamente un `git merge` prima di qualsiasi `git push` e/o `git commit`
 5. Non utilizzare caratteri in stampato e caratteri speciali nel nome dei file
 6. Utilizzare il carattere `_` al posto degli "spazi" nel nome dei file
 7. Utilizzare sempre la numerazione dei file nel nome (i numeri indicano l'ordine degli argomenti trattati a lezione) 
@@ -39,5 +39,5 @@ Ecco un semplice elenco di linee guida da seguire per partecipare alla stesura d
 ### Esempio 
 Il primo argomento trattato a lezione è stato quello del significato di _"Hello, world!"_.  
 Il nome file sarà: `01-helloworld.md`.  
-Il titolo del commit sarà: `"Aggiunti appunti lezione 01-helloworld @merendamattia"`.  
-Il titolo della pull request sarà: `"Appunti lezione 26-02-2023 @merendamattia"`.  
+Il titolo del commit sarà: `"@merendamattia: Aggiunti appunti lezione 01-helloworld"`.  
+Il titolo della pull request sarà: `"@merendamattia: Appunti lezione 26-02-2023"`.  
