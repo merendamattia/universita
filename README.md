@@ -11,6 +11,8 @@
 - 📱 [Programmazione Mobile](http://bit.ly/3kiUJqA)
 - 🧮 [Calcolo Numerico](http://bit.ly/3Il17FF)
 - ⏳ [Fondamenti di Informatica](http://bit.ly/3XZyzHC)
+- ⚙ [Ingegneria del Software](http://bit.ly/IdS)
+- 🛜 [Reti di Calcolatori](http://bit.ly/RdC)
 
 *Facoltà di Informatica presso l'Università degli Studi di Parma (Unipr).*
 
