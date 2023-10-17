@@ -27,7 +27,7 @@ Ecco un semplice elenco di linee guida da seguire per partecipare alla stesura d
 2. Plugin utilizzati su _Obsidian_:
 	- [table-editor-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian)
 	- [highlightr-plugin](https://github.com/chetachiezikeuzor/Highlightr-Plugin)
-	- [obsidian-dynamic-toc](https://github.com/aidurber/obsidian-plugin-dynamic-toc)
+	- [obsidian-automatic-table-of-content](https://github.com/johansatge/obsidian-automatic-table-of-contents)
 	- [todo-checklist](https://github.com/delashum/obsidian-checklist-plugin)
 	- [admonition](https://github.com/valentine195/obsidian-admonition)
 	- [url-into-selection](https://github.com/denolehov/obsidian-url-into-selection)
